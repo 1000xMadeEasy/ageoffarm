@@ -1,5 +1,5 @@
 
-# Ager of Farm
+# Age of Farm
 
 Age of Farm (Auto Tap, Claim) Tanpa APP_ID dan HASH_ID Telegram
 
