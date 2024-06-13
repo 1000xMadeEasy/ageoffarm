@@ -1,7 +1,7 @@
 
 # Age of Farm
 
-Age of Farm (Auto Tap, Claim) Tanpa APP_ID dan HASH_ID Telegram
+Age of Farm (Auto Claim and much more)
 
 Join Here : [Age of Farm](https://t.me/aof_ton_bot?start=ref_8202976e)
 
